@@ -1,1 +1,6 @@
-# aula_4_comp_grafica
+# Atividade 4 - Computação Gráfica
+
+### Integrantes
+Anderson Guerra
+Juliana Leal
+
